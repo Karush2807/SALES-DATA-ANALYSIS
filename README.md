@@ -1,5 +1,11 @@
 # Power BI Sales Analysis Report
 
+# 1. OVERVIEW OF SALES
+<img src="https://github.com/Karush2807/SALES-DATA-ANALYSIS/blob/main/Screenshot%202025-01-07%20102136.png" alt="Sales Data Analysis Screenshot" width="600">
+
+
+
+
 ## Overview
 This Power BI report provides an in-depth analysis of a company's sales data across various product categories and regions. The report is designed to offer actionable insights by presenting sales performance, trends, and relationships in a user-friendly and interactive format.
 
